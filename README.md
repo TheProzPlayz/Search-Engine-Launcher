@@ -1,2 +1,2 @@
 # Search-Engine-Launcher
-Browser Extension
+This is a Browser Extension
